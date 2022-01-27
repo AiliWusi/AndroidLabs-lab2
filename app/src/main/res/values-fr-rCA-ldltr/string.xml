@@ -3,5 +3,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_world">Bonjour le monde</string>
     <string name="button_text">Je suis un button</string>
+    <string name="toast_message">Le libellé a été mis à jour</string>
+    <string name="text_View3">J\'aime Androïd</string>
 
 </resources>

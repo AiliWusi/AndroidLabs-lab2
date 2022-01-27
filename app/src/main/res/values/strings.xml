@@ -2,5 +2,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_world">Hello World</string>
     <string name="button_text">I\'m a button</string>
+    <string name="toast_message">Label has been updated</string>
+    <string name="text_View3">I Love Android</string>
 
 </resources>
